@@ -50,11 +50,11 @@
  }
 
  .todo{
+    display: flex;
      margin: 0.5rem;
      background: white;
      color:black;
      font-size: 1.5rem;
-     display: flex;
      justify-content: center;
      align-items: center;
      transition: all 0.5s ease;
@@ -106,7 +106,7 @@
 
  }
  select{
-     color: #ff6f47;
+     color: #ca4520;
      width: 10rem;
      cursor: pointer;
      padding: 1rem;
